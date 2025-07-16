@@ -1,0 +1,2 @@
+def newmerge():
+    print("newmerge")
